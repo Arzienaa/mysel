@@ -1,0 +1,6 @@
+{
+  "name": "mysl.",
+  "description": "An interactive digital sanctuary, personal diary, and dreamy pink cottage world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
