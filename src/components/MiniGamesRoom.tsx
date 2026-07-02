@@ -439,7 +439,7 @@ export default function MiniGamesRoom() {
     const stem: FlowerStem = {
       id: Date.now() + Math.random(),
       emoji,
-      x: slot.x - 5 + (Math.random() - 0.5) * 1.2,
+      x: slot.x - 7 + (Math.random() - 0.5) * 1.2,
       y: slot.y + (Math.random() - 0.5) * 1.2,
       rotation: slot.rotation + (Math.random() - 0.5) * 3,
     };
